@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 1440px;
+    max-height: 100vh;
+    font-family: 'Kumbh Sans', sans-serif;
+    background: -webkit-linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin-top: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.box {
+    position: absolute;
+    margin-top: 8.2rem;
+}
+
+.woman {
+    margin-right: 50px;
+}
+
+.accordion {
+    width: 100%;
+}
